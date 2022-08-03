@@ -25,6 +25,11 @@ public class Demo
 		System.out.println("This is gits");
 	}
 	
+	public void m6()
+	{
+		System.out.println("Gits");
+	}
+	
 	public static void main(String[] args) {
 		
 		System.out.println("Hello");
