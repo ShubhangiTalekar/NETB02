@@ -20,6 +20,11 @@ public class Demo
 	System.out.println("Hello==M4");
 	}
 	
+	public void m5()
+	{
+		System.out.println("This is gits");
+	}
+	
 	public static void main(String[] args) {
 		
 		System.out.println("Hello");
