@@ -7,6 +7,10 @@ public class GitDemo {
 			System.out.println("Main Method");
 			System.out.println("Hello gits");
 			System.out.println("Main Method");
+			System.out.println("Hello");
+			System.out.println("Main Method");
+			System.out.println("Hello gits");
+			System.out.println("Main Method");
 		
 	}
 
